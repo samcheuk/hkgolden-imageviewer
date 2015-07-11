@@ -2,11 +2,15 @@
 Chrome extension for hkgolden forum image view
 
 ----
+
 Feature:
 
 (Only current page)
+
  - link image avaliable to display
+
  - 1 click for download all images 
+
 ---
 
 Reference:
